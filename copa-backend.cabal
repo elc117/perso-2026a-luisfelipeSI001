@@ -23,6 +23,7 @@ executable copa-backend
     , containers
     , scotty
     , text
+    , wai-middleware-static
   default-language: Haskell2010
 
 executable tests
@@ -42,4 +43,5 @@ executable tests
     , containers
     , scotty
     , text
+    , wai-middleware-static
   default-language: Haskell2010

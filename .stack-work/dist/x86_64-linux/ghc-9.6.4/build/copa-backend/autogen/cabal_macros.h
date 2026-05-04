@@ -60,6 +60,16 @@
   (major1) == 2 && (major2) <  0 || \
   (major1) == 2 && (major2) == 0 && (minor) <= 2)
 #endif /* MIN_VERSION_text */
+/* package wai-middleware-static-0.9.2 */
+#ifndef VERSION_wai_middleware_static
+#define VERSION_wai_middleware_static "0.9.2"
+#endif /* VERSION_wai_middleware_static */
+#ifndef MIN_VERSION_wai_middleware_static
+#define MIN_VERSION_wai_middleware_static(major1,major2,minor) (\
+  (major1) <  0 || \
+  (major1) == 0 && (major2) <  9 || \
+  (major1) == 0 && (major2) == 9 && (minor) <= 2)
+#endif /* MIN_VERSION_wai_middleware_static */
 
 /* tool gcc-13 */
 #ifndef TOOL_VERSION_gcc
@@ -153,7 +163,7 @@
 #endif /* MIN_TOOL_VERSION_strip */
 
 #ifndef CURRENT_COMPONENT_ID
-#define CURRENT_COMPONENT_ID "copa-backend-0.1.0.0-A8hKmicptmF91pdZ1wVzeg-copa-backend"
+#define CURRENT_COMPONENT_ID "copa-backend-0.1.0.0-39VvLK7NeyGIW5Xel5xyV3-copa-backend"
 #endif /* CURRENT_COMPONENT_ID */
 #ifndef CURRENT_PACKAGE_VERSION
 #define CURRENT_PACKAGE_VERSION "0.1.0.0"

@@ -3,18 +3,18 @@
 /usr/include/stdc-predef.h:
   hash: 8db4f65e62cade8ae4d9b77960ee6aee093255acc1b637e3fb37d79179733b15
 /workspaces/perso-2026a-luisfelipeSI001/.stack-work/dist/x86_64-linux/ghc-9.6.4/build/copa-backend/autogen/Paths_copa_backend.hs:
-  hash: f6c5c7e515ea77f9396a4e99177e8c0b2fec98a130372cb7887748a73d61fc49
+  hash: 8432790dae4f45b3c53e5547b59d0315b3e2fb632d2efa218b19fab6059aac56
 /workspaces/perso-2026a-luisfelipeSI001/.stack-work/dist/x86_64-linux/ghc-9.6.4/build/copa-backend/autogen/cabal_macros.h:
-  hash: 50cc90274997fc4c639dfe5e82f41ba62c6758190d8ed0dbd1ea1a342825b563
+  hash: d9f9c9004144fc6e3bde8d371e3a8e75e2799c416ae506b60f673d0da091d623
 /workspaces/perso-2026a-luisfelipeSI001/copa-backend.cabal:
-  hash: da866927a4d348fd908503b6289832e775073fb4b1e8cee51b85e9100d9bdaec
+  hash: 676b33338368b59c7a176774654732d6345d169f4b8ac11e51585560925defde
 /workspaces/perso-2026a-luisfelipeSI001/package.yaml:
-  hash: 69f05addc36d7a9ba0c5731bf58984bd2b5c2a45d7647d43dc06da378346770c
+  hash: 94a0654ce5bccd806c6464fb03eb807d8d9a9e4a0b689a14a0077ecbc607e675
 /workspaces/perso-2026a-luisfelipeSI001/src/InitialData.hs:
-  hash: 6ced07dbb2183bc6bd856137de59eec05f4c37220cfd909c56f67b7fdc807ee5
+  hash: 809224fa211dcb004a20f7e6d4c6eb012fc16e641450dc75eb9390f4c3afaec7
 /workspaces/perso-2026a-luisfelipeSI001/src/Logic.hs:
   hash: ae99b513a0a18d7898ef043a9a54b0a63a499550008e4de871913e82ef65c515
 /workspaces/perso-2026a-luisfelipeSI001/src/Main.hs:
-  hash: ffe4c891ef2d5b30aa9b9fbbadd0653471609f3ef956ee157fbfeddf76e44416
+  hash: c21ee163a8f4b034201d8d67b153048af119a2b48de72b01521a0e7140b04d39
 /workspaces/perso-2026a-luisfelipeSI001/src/Types.hs:
   hash: 8cc98449b4054950ef0e730d73c3974b86b7abbcdf14b0686d7b2f4b5a227b39
