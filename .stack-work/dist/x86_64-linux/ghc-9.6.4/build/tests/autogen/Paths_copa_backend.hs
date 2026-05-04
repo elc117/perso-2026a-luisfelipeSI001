@@ -46,12 +46,12 @@ getBinDir, getLibDir, getDynLibDir, getDataDir, getLibexecDir, getSysconfDir :: 
 
 
 bindir, libdir, dynlibdir, datadir, libexecdir, sysconfdir :: FilePath
-bindir     = "/workspaces/perso-2026a-luisfelipeSI001/.stack-work/install/x86_64-linux/d6c3dc7662a207aba00ca06a0b58304815f95552b1107cef8b1b20faf72c180a/9.6.4/bin"
-libdir     = "/workspaces/perso-2026a-luisfelipeSI001/.stack-work/install/x86_64-linux/d6c3dc7662a207aba00ca06a0b58304815f95552b1107cef8b1b20faf72c180a/9.6.4/lib/x86_64-linux-ghc-9.6.4/copa-backend-0.1.0.0-34bJX6mVtB961Si6jyxChx-tests"
-dynlibdir  = "/workspaces/perso-2026a-luisfelipeSI001/.stack-work/install/x86_64-linux/d6c3dc7662a207aba00ca06a0b58304815f95552b1107cef8b1b20faf72c180a/9.6.4/lib/x86_64-linux-ghc-9.6.4"
-datadir    = "/workspaces/perso-2026a-luisfelipeSI001/.stack-work/install/x86_64-linux/d6c3dc7662a207aba00ca06a0b58304815f95552b1107cef8b1b20faf72c180a/9.6.4/share/x86_64-linux-ghc-9.6.4/copa-backend-0.1.0.0"
-libexecdir = "/workspaces/perso-2026a-luisfelipeSI001/.stack-work/install/x86_64-linux/d6c3dc7662a207aba00ca06a0b58304815f95552b1107cef8b1b20faf72c180a/9.6.4/libexec/x86_64-linux-ghc-9.6.4/copa-backend-0.1.0.0"
-sysconfdir = "/workspaces/perso-2026a-luisfelipeSI001/.stack-work/install/x86_64-linux/d6c3dc7662a207aba00ca06a0b58304815f95552b1107cef8b1b20faf72c180a/9.6.4/etc"
+bindir     = "/workspaces/perso-2026a-luisfelipeSI001/.stack-work/install/x86_64-linux/ae9300eca721828913d32eb194a08f528457d28ba8794bfc498f691351729b76/9.6.4/bin"
+libdir     = "/workspaces/perso-2026a-luisfelipeSI001/.stack-work/install/x86_64-linux/ae9300eca721828913d32eb194a08f528457d28ba8794bfc498f691351729b76/9.6.4/lib/x86_64-linux-ghc-9.6.4/copa-backend-0.1.0.0-34bJX6mVtB961Si6jyxChx-tests"
+dynlibdir  = "/workspaces/perso-2026a-luisfelipeSI001/.stack-work/install/x86_64-linux/ae9300eca721828913d32eb194a08f528457d28ba8794bfc498f691351729b76/9.6.4/lib/x86_64-linux-ghc-9.6.4"
+datadir    = "/workspaces/perso-2026a-luisfelipeSI001/.stack-work/install/x86_64-linux/ae9300eca721828913d32eb194a08f528457d28ba8794bfc498f691351729b76/9.6.4/share/x86_64-linux-ghc-9.6.4/copa-backend-0.1.0.0"
+libexecdir = "/workspaces/perso-2026a-luisfelipeSI001/.stack-work/install/x86_64-linux/ae9300eca721828913d32eb194a08f528457d28ba8794bfc498f691351729b76/9.6.4/libexec/x86_64-linux-ghc-9.6.4/copa-backend-0.1.0.0"
+sysconfdir = "/workspaces/perso-2026a-luisfelipeSI001/.stack-work/install/x86_64-linux/ae9300eca721828913d32eb194a08f528457d28ba8794bfc498f691351729b76/9.6.4/etc"
 
 getBinDir     = catchIO (getEnv "copa_backend_bindir")     (\_ -> return bindir)
 getLibDir     = catchIO (getEnv "copa_backend_libdir")     (\_ -> return libdir)
