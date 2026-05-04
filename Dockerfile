@@ -4,9 +4,9 @@ WORKDIR /app
 
 COPY . .
 
-RUN stack setup
-RUN stack build
+RUN stack setup --system-ghc
+RUN stack build --system-ghc
 
 EXPOSE 3000
 
-CMD ["stack", "run"]
+CMD ["stack", "run", "--system-ghc"]
