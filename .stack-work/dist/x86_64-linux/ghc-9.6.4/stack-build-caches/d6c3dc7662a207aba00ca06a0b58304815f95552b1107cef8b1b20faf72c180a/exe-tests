@@ -1,0 +1,22 @@
+/home/codespace/.ghcup/ghc/9.6.4/lib/ghc-9.6.4/lib/x86_64-linux-ghc-9.6.4/rts-1.0.2/include/ghcversion.h:
+  hash: cbc0ab805e5b827180e3116cecd3f6665988df7f45a6b64f0e09ea8c25c438ff
+/usr/include/stdc-predef.h:
+  hash: 8db4f65e62cade8ae4d9b77960ee6aee093255acc1b637e3fb37d79179733b15
+/workspaces/perso-2026a-luisfelipeSI001/.stack-work/dist/x86_64-linux/ghc-9.6.4/build/tests/autogen/Paths_copa_backend.hs:
+  hash: 406d6040ba3fdcd33cc528b473e2c3b49c21b9bbc8216039c9f57575e189c60b
+/workspaces/perso-2026a-luisfelipeSI001/.stack-work/dist/x86_64-linux/ghc-9.6.4/build/tests/autogen/cabal_macros.h:
+  hash: 212a3a7a9fca354f24a49a2420ccfb8a5d9279d363e7713206d2e943f99789da
+/workspaces/perso-2026a-luisfelipeSI001/copa-backend.cabal:
+  hash: da866927a4d348fd908503b6289832e775073fb4b1e8cee51b85e9100d9bdaec
+/workspaces/perso-2026a-luisfelipeSI001/package.yaml:
+  hash: 69f05addc36d7a9ba0c5731bf58984bd2b5c2a45d7647d43dc06da378346770c
+/workspaces/perso-2026a-luisfelipeSI001/src/InitialData.hs:
+  hash: 6ced07dbb2183bc6bd856137de59eec05f4c37220cfd909c56f67b7fdc807ee5
+/workspaces/perso-2026a-luisfelipeSI001/src/Logic.hs:
+  hash: ae99b513a0a18d7898ef043a9a54b0a63a499550008e4de871913e82ef65c515
+/workspaces/perso-2026a-luisfelipeSI001/src/Main.hs:
+  hash: ffe4c891ef2d5b30aa9b9fbbadd0653471609f3ef956ee157fbfeddf76e44416
+/workspaces/perso-2026a-luisfelipeSI001/src/Types.hs:
+  hash: 8cc98449b4054950ef0e730d73c3974b86b7abbcdf14b0686d7b2f4b5a227b39
+/workspaces/perso-2026a-luisfelipeSI001/test/Tests.hs:
+  hash: 0b1eab42e57c89d537626ee28ebfec1e35e9a36e7e0265df0acba7d6c720681c

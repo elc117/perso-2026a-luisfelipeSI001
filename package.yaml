@@ -1,0 +1,20 @@
+name: copa-backend
+version: 0.1.0.0
+
+dependencies:
+  - base >= 4.7 && < 5
+  - scotty
+  - text
+  - aeson
+  - containers
+
+executables:
+  copa-backend:
+    main: Main.hs
+    source-dirs: src
+
+  tests:
+    main: Tests.hs
+    source-dirs:
+      - src
+      - test
