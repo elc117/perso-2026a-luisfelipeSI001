@@ -89,8 +89,6 @@ atualização automática dos resultados.
 
 A interface web facilita a interação com o backend, tornando o sistema mais próximo de um simulador real.
 
-(Inserir aqui GIF ou vídeo curto demonstrando o funcionamento)
-
 ## 8. Uso de IA
 8.1 Ferramentas utilizadas
 ChatGPT (GPT-5.3)
